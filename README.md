@@ -119,7 +119,6 @@
     <td align="center"><img src="./ico/caddy.svg" width="48" height="48" alt="Caddy" /><br>Caddy</td>
     <td align="center"><img src="./ico/haproxy.svg" width="48" height="48" alt="HAProxy" /><br>HAProxy</td>
     <td align="center"><img src="./ico/wireguard.svg" width="48" height="48" alt="WireGuard" /><br>WireGuard</td>
-    <td align="center"><img src="./ico/openvpn.svg" width="48" height="48" alt="OpenVPN" /><br>OpenVPN</td>
     <td align="center"><img src="./ico/headscale.svg" width="48" height="48" alt="Headscale" /><br>Headscale</td>
     <td align="center"><img src="./ico/fail2ban.png" width="48" height="48" alt="Fail2ban" /><br>Fail2ban</td>
     <td align="center"><img src="./ico/crowdsec.svg" width="48" height="48" alt="CrowdSec" /><br>CrowdSec</td>
