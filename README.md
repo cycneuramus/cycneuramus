@@ -13,45 +13,45 @@ cycneuramus@github:~$ █</samp></pre>
 
 <p align="left">
   <a href="https://github.com/cycneuramus/nmgr#gh-dark-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=nmgr&theme=dark&hide_border=true#gh-dark-mode-only" alt="nmgr-dark" />
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=nmgr&theme=github_dark#gh-dark-mode-only" alt="nmgr-dark" />
   </a>
   <a href="https://github.com/cycneuramus/nmgr#gh-light-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=nmgr&hide_border=true#gh-light-mode-only" alt="nmgr-light" />
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=nmgr#gh-light-mode-only" alt="nmgr-light" />
   </a>
 
   <a href="https://github.com/cycneuramus/cloudflare-dns-failover#gh-dark-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=cloudflare-dns-failover&theme=dark&hide_border=true#gh-dark-mode-only" alt="cloudflare-dns-failover-dark" />
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=cloudflare-dns-failover&theme=github_dark#gh-dark-mode-only" alt="cloudflare-dns-failover-dark" />
   </a>
   <a href="https://github.com/cycneuramus/cloudflare-dns-failover#gh-light-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=cloudflare-dns-failover&hide_border=true#gh-light-mode-only" alt="cloudflare-dns-failover-light" />
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=cloudflare-dns-failover#gh-light-mode-only" alt="cloudflare-dns-failover-light" />
   </a>
 
   <a href="https://github.com/cycneuramus/bastille-signalproxy#gh-dark-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=bastille-signalproxy&theme=dark&hide_border=true#gh-dark-mode-only" alt="bastille-signalproxy-dark" />
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=bastille-signalproxy&theme=github_dark#gh-dark-mode-only" alt="bastille-signalproxy-dark" />
   </a>
   <a href="https://github.com/cycneuramus/bastille-signalproxy#gh-light-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=bastille-signalproxy&hide_border=true#gh-light-mode-only" alt="bastille-signalproxy-light" />
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=bastille-signalproxy#gh-light-mode-only" alt="bastille-signalproxy-light" />
   </a>
 
   <a href="https://github.com/cycneuramus/signal-aichat#gh-dark-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=signal-aichat&theme=dark&hide_border=true#gh-dark-mode-only" alt="signal-aichat-dark" />
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=signal-aichat&theme=github_dark#gh-dark-mode-only" alt="signal-aichat-dark" />
   </a>
   <a href="https://github.com/cycneuramus/signal-aichat#gh-light-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=signal-aichat&hide_border=true#gh-light-mode-only" alt="signal-aichat-light" />
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=signal-aichat#gh-light-mode-only" alt="signal-aichat-light" />
   </a>
 
   <a href="https://github.com/cycneuramus/homelab#gh-dark-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=homelab&theme=dark&hide_border=true#gh-dark-mode-only" alt="homelab-dark" />
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=homelab&theme=github_dark#gh-dark-mode-only" alt="homelab-dark" />
   </a>
   <a href="https://github.com/cycneuramus/homelab#gh-light-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=homelab&hide_border=true#gh-light-mode-only" alt="homelab-light" />
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=homelab#gh-light-mode-only" alt="homelab-light" />
   </a>
 
   <a href="https://github.com/cycneuramus/ansible-hybrid-cloud#gh-dark-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=ansible-hybrid-cloud&theme=dark&hide_border=true#gh-dark-mode-only" alt="ansible-hybrid-cloud-dark" />
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=ansible-hybrid-cloud&theme=github_dark#gh-dark-mode-only" alt="ansible-hybrid-cloud-dark" />
   </a>
   <a href="https://github.com/cycneuramus/ansible-hybrid-cloud#gh-light-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=ansible-hybrid-cloud&hide_border=true#gh-light-mode-only" alt="ansible-hybrid-cloud-light" />
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=ansible-hybrid-cloud#gh-light-mode-only" alt="ansible-hybrid-cloud-light" />
   </a>
 </p>
 
@@ -59,24 +59,24 @@ cycneuramus@github:~$ █</samp></pre>
 
 <p align="left">
   <a href="https://github.com/immich-app/immich#gh-dark-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=immich-app&repo=immich&theme=dark&show_description=false&hide_border=true#gh-dark-mode-only" alt="immich-dark" />
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=immich-app&repo=immich&theme=github_dark&show_description=false#gh-dark-mode-only" alt="immich-dark" />
   </a>
   <a href="https://github.com/immich-app/immich#gh-light-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=immich-app&repo=immich&show_description=false&hide_border=true#gh-light-mode-only" alt="immich-light" />
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=immich-app&repo=immich&show_description=false#gh-light-mode-only" alt="immich-light" />
   </a>
 
   <a href="https://github.com/rclone/rclone#gh-dark-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rclone&repo=rclone&theme=dark&show_description=false&hide_border=true#gh-dark-mode-only" alt="rclone-dark" />
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rclone&repo=rclone&theme=github_dark&show_description=false#gh-dark-mode-only" alt="rclone-dark" />
   </a>
   <a href="https://github.com/rclone/rclone#gh-light-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rclone&repo=rclone&show_description=false&hide_border=true#gh-light-mode-only" alt="rclone-light" />
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rclone&repo=rclone&show_description=false#gh-light-mode-only" alt="rclone-light" />
   </a>
 
   <a href="https://github.com/nim-lang/packages#gh-dark-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nim-lang&repo=packages&theme=dark&show_description=false&hide_border=true#gh-dark-mode-only" alt="packages-dark" />
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nim-lang&repo=packages&theme=github_dark&show_description=false#gh-dark-mode-only" alt="packages-dark" />
   </a>
   <a href="https://github.com/nim-lang/packages#gh-light-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nim-lang&repo=packages&show_description=false&hide_border=true#gh-light-mode-only" alt="packages-light" />
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nim-lang&repo=packages&show_description=false#gh-light-mode-only" alt="packages-light" />
   </a>
 </p>
 
