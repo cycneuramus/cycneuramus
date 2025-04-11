@@ -1,5 +1,12 @@
 <br>
-<pre><samp>cycneuramus@github:~$ Linux SysOps engineer, FOSS contributor, selfhoster █</samp></pre>
+
+<pre><samp>cycneuramus@github:~$ <kbd>cat .profile</kbd>
+export WORK="Linux SysOps engineer"
+export PLAY="FOSS contributor"
+export TIMESINK="Self-hoster"
+
+cycneuramus@github:~$ █</samp></pre>
+
 <br>
 
 ## Featured projects
