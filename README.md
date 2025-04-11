@@ -1,10 +1,81 @@
 <br>
-<i>✦ Linux SysOps engineer, FOSS contributor, selfhoster ✦</i>
+<pre><samp>cycneuramus@github:~$ Linux SysOps engineer, FOSS contributor, selfhoster █</samp></pre>
 <br>
 
-# Technologies
+## Featured projects
 
-## Distributions
+<p align="left">
+  <a href="https://github.com/cycneuramus/nmgr#gh-dark-mode-only">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=nmgr&theme=dark#gh-dark-mode-only" alt="nmgr-dark" />
+  </a>
+  <a href="https://github.com/cycneuramus/nmgr#gh-light-mode-only">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=nmgr#gh-light-mode-only" alt="nmgr-light" />
+  </a>
+
+  <a href="https://github.com/cycneuramus/cloudflare-dns-failover#gh-dark-mode-only">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=cloudflare-dns-failover&theme=dark#gh-dark-mode-only" alt="cloudflare-dns-failover-dark" />
+  </a>
+  <a href="https://github.com/cycneuramus/cloudflare-dns-failover#gh-light-mode-only">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=cloudflare-dns-failover#gh-light-mode-only" alt="cloudflare-dns-failover-light" />
+  </a>
+
+  <a href="https://github.com/cycneuramus/bastille-signalproxy#gh-dark-mode-only">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=bastille-signalproxy&theme=dark#gh-dark-mode-only" alt="bastille-signalproxy-dark" />
+  </a>
+  <a href="https://github.com/cycneuramus/bastille-signalproxy#gh-light-mode-only">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=bastille-signalproxy#gh-light-mode-only" alt="bastille-signalproxy-light" />
+  </a>
+
+  <a href="https://github.com/cycneuramus/signal-aichat#gh-dark-mode-only">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=signal-aichat&theme=dark#gh-dark-mode-only" alt="signal-aichat-dark" />
+  </a>
+  <a href="https://github.com/cycneuramus/signal-aichat#gh-light-mode-only">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=signal-aichat#gh-light-mode-only" alt="signal-aichat-light" />
+  </a>
+
+  <a href="https://github.com/cycneuramus/homelab#gh-dark-mode-only">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=homelab&theme=dark#gh-dark-mode-only" alt="homelab-dark" />
+  </a>
+  <a href="https://github.com/cycneuramus/homelab#gh-light-mode-only">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=homelab#gh-light-mode-only" alt="homelab-light" />
+  </a>
+
+  <a href="https://github.com/cycneuramus/ansible-hybrid-cloud#gh-dark-mode-only">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=ansible-hybrid-cloud&theme=dark#gh-dark-mode-only" alt="ansible-hybrid-cloud-dark" />
+  </a>
+  <a href="https://github.com/cycneuramus/ansible-hybrid-cloud#gh-light-mode-only">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=ansible-hybrid-cloud#gh-light-mode-only" alt="ansible-hybrid-cloud-light" />
+  </a>
+</p>
+
+## Projects contributed to
+
+<p align="left">
+  <a href="https://github.com/immich-app/immich#gh-dark-mode-only">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=immich-app&repo=immich&theme=dark&show_description=false#gh-dark-mode-only" alt="immich-dark" />
+  </a>
+  <a href="https://github.com/immich-app/immich#gh-light-mode-only">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=immich-app&repo=immich&show_description=false#gh-light-mode-only" alt="immich-light" />
+  </a>
+
+  <a href="https://github.com/rclone/rclone#gh-dark-mode-only">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rclone&repo=rclone&theme=dark&show_description=false#gh-dark-mode-only" alt="rclone-dark" />
+  </a>
+  <a href="https://github.com/rclone/rclone#gh-light-mode-only">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rclone&repo=rclone&show_description=false#gh-light-mode-only" alt="rclone-light" />
+  </a>
+
+  <a href="https://github.com/nim-lang/packages#gh-dark-mode-only">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nim-lang&repo=packages&theme=dark&show_description=false#gh-dark-mode-only" alt="packages-dark" />
+  </a>
+  <a href="https://github.com/nim-lang/packages#gh-light-mode-only">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nim-lang&repo=packages&show_description=false#gh-light-mode-only" alt="packages-light" />
+  </a>
+</p>
+
+## Technologies
+
+### Distributions
 
 <table>
   <tr>
@@ -17,19 +88,7 @@
   </tr>
 </table>
 
-## Orchestration, Virtualization & Containers
-
-<table>
-  <tr>
-    <td align="center"><img src="./ico/nomad.svg" width="48" height="48" alt="Nomad" /><br>Nomad</td>
-    <td align="center"><img src="./ico/docker-swarm.svg" width="48" height="48" alt="Swarm" /><br>Swarm</td>
-    <td align="center"><img src="./ico/podman.svg" width="48" height="48" alt="Podman" /><br>Podman</td>
-    <td align="center"><img src="./ico/docker.svg" width="48" height="48" alt="Docker" /><br>Docker</td>
-    <td align="center"><img src="./ico/incus.svg" width="48" height="48" alt="Incus" /><br>Incus</td>
-  </tr>
-</table>
-
-## Programming & Scripting Languages
+### Programming & Scripting Languages
 
 <table>
   <tr>
@@ -41,7 +100,19 @@
   </tr>
 </table>
 
-## Network Infrastructure & Security
+### Orchestration, Virtualization & Containers
+
+<table>
+  <tr>
+    <td align="center"><img src="./ico/nomad.svg" width="48" height="48" alt="Nomad" /><br>Nomad</td>
+    <td align="center"><img src="./ico/docker-swarm.svg" width="48" height="48" alt="Swarm" /><br>Swarm</td>
+    <td align="center"><img src="./ico/podman.svg" width="48" height="48" alt="Podman" /><br>Podman</td>
+    <td align="center"><img src="./ico/docker.svg" width="48" height="48" alt="Docker" /><br>Docker</td>
+    <td align="center"><img src="./ico/incus.svg" width="48" height="48" alt="Incus" /><br>Incus</td>
+  </tr>
+</table>
+
+### Network Infrastructure & Security
 
 <table>
   <tr>
@@ -55,7 +126,7 @@
   </tr>
 </table>
 
-## Infrastructure as Code & CI/CD
+### Infrastructure as Code & CI/CD
 
 <table>
   <tr>
@@ -67,7 +138,7 @@
   </tr>
 </table>
 
-## Version Control & Dev Platforms
+### Version Control & Dev Platforms
 
 <table>
   <tr>
@@ -79,20 +150,20 @@
   </tr>
 </table>
 
-## Distributed Storage & Backup
+### Distributed Storage & Backup
 
 <table>
   <tr>
     <td align="center"><img src="./ico/juicefs.png" width="48" height="48" alt="JuiceFS" /><br>JuiceFS</td>
     <td align="center"><img src="./ico/garage-s3.svg" width="48" height="48" alt="Garage" /><br>Garage</td>
     <td align="center"><img src="./ico/seaweedfs.svg" width="48" height="48" alt="SeaweedFS" /><br>SeaweedFS</td>
-    <td align="center"><img src="./ico/rclone.svg" width="48" height="48" alt="rclone" /><br>rclone</td>
+    <td align="center"><img src="./ico/rclone.svg" width="48" height="48" alt="Rclone" /><br>Rclone</td>
     <td align="center"><img src="./ico/borg-backup.svg" width="48" height="48" alt="Borg" /><br>Borg</td>
     <td align="center"><img src="./ico/restic.svg" width="48" height="48" alt="Restic" /><br>Restic</td>
   </tr>
 </table>
 
-## Editors
+### Editors
 
 <table>
   <tr>
@@ -100,16 +171,3 @@
     <td align="center"><img src="./ico/neovim.svg" width="48" height="48" alt="Neovim" /><br>Neovim</td>
   </tr>
 </table>
-
----
-
-# Stats
-
-[![langs-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=cycneuramus&hide=dockerfile&hide_progress=true&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![langs-light](https://github-readme-stats.vercel.app/api/top-langs/?username=cycneuramus&hide=dockerfile&hide_progress=true&size_weight=0.5&count_weight=0.5#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
----
-
-[![trophy-dark](https://github-profile-trophy.vercel.app/?username=cycneuramus&rank=-B,-C,-?&theme=dark_dimmed#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
-[![trophy-light](https://github-profile-trophy.vercel.app/?username=cycneuramus&rank=-B,-C,-?#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
-
