@@ -2,12 +2,21 @@
 
 <pre><samp>cycneuramus@github:~$ <kbd>cat .profile</kbd>
 export WORK="Linux SysOps engineer"
-export PLAY="FOSS contributor"
+export PLAY="FOSS developer"
 export TIMESINK="Self-hoster"
 
 cycneuramus@github:~$ █</samp></pre>
 
 <br>
+
+<a href="#gh-dark-mode-only">
+  <img src="https://github-profile-trophy.vercel.app/?username=cycneuramus&rank=-B,-C,-?&column=-1&no-bg=true&theme=gitdimmed#gh-dark-mode-only" alt="GitHub trophies - dark" />
+</a>
+<a href="#gh-light-mode-only">
+  <img src="https://github-profile-trophy.vercel.app/?username=cycneuramus&rank=-B,-C,-?&column=-1&no-bg=true#gh-light-mode-only" alt="GitHub trophies - light" />
+</a>
+
+<br><br>
 
 ## Featured projects
 
@@ -79,6 +88,8 @@ cycneuramus@github:~$ █</samp></pre>
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nim-lang&repo=packages&show_description=false#gh-light-mode-only" alt="packages-light" />
   </a>
 </p>
+
+<br>
 
 ## Technologies
 
