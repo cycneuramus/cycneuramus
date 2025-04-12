@@ -9,84 +9,67 @@ cycneuramus@github:~$ █</samp></pre>
 
 <br>
 
-<a href="#gh-dark-mode-only">
-  <img src="https://github-profile-trophy.vercel.app/?username=cycneuramus&rank=-B,-C,-?&column=-1&no-bg=true&theme=gitdimmed#gh-dark-mode-only" alt="GitHub trophies - dark" />
-</a>
-<a href="#gh-light-mode-only">
-  <img src="https://github-profile-trophy.vercel.app/?username=cycneuramus&rank=-B,-C,-?&column=-1&no-bg=true#gh-light-mode-only" alt="GitHub trophies - light" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/trophies-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cards/trophies-light.svg">
+  <img alt="Github Trophies" src="./assets/cards/trophies-dark.svg">
+</picture>
 
 <br><br>
 
 ## Featured projects
 
 <p align="left">
-  <a href="https://github.com/cycneuramus/nmgr#gh-dark-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=nmgr&theme=github_dark#gh-dark-mode-only" alt="nmgr-dark" />
-  </a>
-  <a href="https://github.com/cycneuramus/nmgr#gh-light-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=nmgr#gh-light-mode-only" alt="nmgr-light" />
-  </a>
-
-  <a href="https://github.com/cycneuramus/cloudflare-dns-failover#gh-dark-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=cloudflare-dns-failover&theme=github_dark#gh-dark-mode-only" alt="cloudflare-dns-failover-dark" />
-  </a>
-  <a href="https://github.com/cycneuramus/cloudflare-dns-failover#gh-light-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=cloudflare-dns-failover#gh-light-mode-only" alt="cloudflare-dns-failover-light" />
-  </a>
-
-  <a href="https://github.com/cycneuramus/bastille-signalproxy#gh-dark-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=bastille-signalproxy&theme=github_dark#gh-dark-mode-only" alt="bastille-signalproxy-dark" />
-  </a>
-  <a href="https://github.com/cycneuramus/bastille-signalproxy#gh-light-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=bastille-signalproxy#gh-light-mode-only" alt="bastille-signalproxy-light" />
-  </a>
-
-  <a href="https://github.com/cycneuramus/signal-aichat#gh-dark-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=signal-aichat&theme=github_dark#gh-dark-mode-only" alt="signal-aichat-dark" />
-  </a>
-  <a href="https://github.com/cycneuramus/signal-aichat#gh-light-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=signal-aichat#gh-light-mode-only" alt="signal-aichat-light" />
-  </a>
-
-  <a href="https://github.com/cycneuramus/homelab#gh-dark-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=homelab&theme=github_dark#gh-dark-mode-only" alt="homelab-dark" />
-  </a>
-  <a href="https://github.com/cycneuramus/homelab#gh-light-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=homelab#gh-light-mode-only" alt="homelab-light" />
-  </a>
-
-  <a href="https://github.com/cycneuramus/ansible-hybrid-cloud#gh-dark-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=ansible-hybrid-cloud&theme=github_dark#gh-dark-mode-only" alt="ansible-hybrid-cloud-dark" />
-  </a>
-  <a href="https://github.com/cycneuramus/ansible-hybrid-cloud#gh-light-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=ansible-hybrid-cloud#gh-light-mode-only" alt="ansible-hybrid-cloud-light" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/nmgr-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/nmgr-light.svg">
+    <img width="278" alt="cycneuramus/nmgr" src="./assets/cards/nmgr-dark.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/cloudflare-dns-failover-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/cloudflare-dns-failover-light.svg">
+    <img width="278" alt="cycneuramus/cloudflare-dns-failover" src="./assets/cards/cloudflare-dns-failover-dark.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/bastille-signalproxy-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/bastille-signalproxy-light.svg">
+    <img width="278" alt="cycneuramus/bastille-signalproxy" src="./assets/cards/bastille-signalproxy-dark.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/signal-aichat-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/signal-aichat-light.svg">
+    <img width="278" alt="cycneuramus/signal-aichat" src="./assets/cards/signal-aichat-dark.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/homelab-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/homelab-light.svg">
+    <img width="278" alt="cycneuramus/homelab" src="./assets/cards/homelab-dark.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/ansible-hybrid-cloud-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/ansible-hybrid-cloud-light.svg">
+    <img width="278" alt="cycneuramus/ansible-hybrid-cloud" src="./assets/cards/ansible-hybrid-cloud-dark.svg">
+  </picture>
 </p>
 
 ## Projects contributed to
 
 <p align="left">
-  <a href="https://github.com/immich-app/immich#gh-dark-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=immich-app&repo=immich&theme=github_dark&show_description=false#gh-dark-mode-only" alt="immich-dark" />
-  </a>
-  <a href="https://github.com/immich-app/immich#gh-light-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=immich-app&repo=immich&show_description=false#gh-light-mode-only" alt="immich-light" />
-  </a>
-
-  <a href="https://github.com/rclone/rclone#gh-dark-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rclone&repo=rclone&theme=github_dark&show_description=false#gh-dark-mode-only" alt="rclone-dark" />
-  </a>
-  <a href="https://github.com/rclone/rclone#gh-light-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rclone&repo=rclone&show_description=false#gh-light-mode-only" alt="rclone-light" />
-  </a>
-
-  <a href="https://github.com/nim-lang/packages#gh-dark-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nim-lang&repo=packages&theme=github_dark&show_description=false#gh-dark-mode-only" alt="packages-dark" />
-  </a>
-  <a href="https://github.com/nim-lang/packages#gh-light-mode-only">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nim-lang&repo=packages&show_description=false#gh-light-mode-only" alt="packages-light" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/immich-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/immich-light.svg">
+    <img width="278" alt="immich-app/immich" src="./assets/cards/immich-dark.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/rclone-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/rclone-light.svg">
+    <img width="278" alt="rclone/rclone" src="./assets/cards/rclone-dark.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/packages-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/packages-light.svg">
+    <img width="278" alt="nim-lang/packages" src="./assets/cards/packages-dark.svg">
+  </picture>
 </p>
 
 <br>
