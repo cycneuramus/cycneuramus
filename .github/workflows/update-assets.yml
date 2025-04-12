@@ -1,0 +1,71 @@
+name: Update dynamic assets
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-assets:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up asset directory
+        run: mkdir -p assets/cards
+
+      - name: Download and update dynamic assets
+        run: |
+          declare -A urls=(
+            ["trophies-dark"]="https://github-profile-trophy.vercel.app/?username=cycneuramus&rank=-B,-C,-?&column=-1&no-bg=true&theme=gitdimmed"
+            ["trophies-light"]="https://github-profile-trophy.vercel.app/?username=cycneuramus&rank=-B,-C,-?&column=-1&no-bg=true"
+            ["nmgr-dark"]="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=nmgr&theme=github_dark"
+            ["nmgr-light"]="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=nmgr"
+            ["cloudflare-dns-failover-dark"]="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=cloudflare-dns-failover&theme=github_dark"
+            ["cloudflare-dns-failover-light"]="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=cloudflare-dns-failover"
+            ["bastille-signalproxy-dark"]="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=bastille-signalproxy&theme=github_dark"
+            ["bastille-signalproxy-light"]="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=bastille-signalproxy"
+            ["signal-aichat-dark"]="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=signal-aichat&theme=github_dark"
+            ["signal-aichat-light"]="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=signal-aichat"
+            ["homelab-dark"]="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=homelab&theme=github_dark"
+            ["homelab-light"]="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=homelab"
+            ["ansible-hybrid-cloud-dark"]="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=ansible-hybrid-cloud&theme=github_dark"
+            ["ansible-hybrid-cloud-light"]="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cycneuramus&repo=ansible-hybrid-cloud"
+            ["immich-dark"]="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=immich-app&repo=immich&theme=github_dark&show_description=false"
+            ["immich-light"]="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=immich-app&repo=immich&show_description=false"
+            ["rclone-dark"]="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rclone&repo=rclone&theme=github_dark&show_description=false"
+            ["rclone-light"]="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rclone&repo=rclone&show_description=false"
+            ["packages-dark"]="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nim-lang&repo=packages&theme=github_dark&show_description=false"
+            ["packages-light"]="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nim-lang&repo=packages&show_description=false"
+          )
+
+          changed=false
+
+          for name in "${!urls[@]}"; do
+            path="assets/cards/${name}.svg"
+            tmp="${path}.tmp"
+
+            curl -sL "${urls[$name]}" -o "$tmp"
+
+            if [ ! -f "$path" ] || ! cmp -s "$path" "$tmp"; then
+              mv "$tmp" "$path"
+              git add "$path"
+              changed=true
+            else
+              rm "$tmp"
+            fi
+          done
+
+          if [ "$changed" = false ]; then
+            echo "No asset changes detected."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update dynamic assets"
+          git push

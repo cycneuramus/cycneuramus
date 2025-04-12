@@ -97,12 +97,12 @@ cycneuramus@github:~$ █</samp></pre>
 
 <table>
   <tr>
-    <td align="center"><img src="./ico/archlinux.svg" width="48" height="48" alt="Arch" /><br>Arch</td>
-    <td align="center"><img src="./ico/debian.svg" width="48" height="48" alt="Debian" /><br>Debian</td>
-    <td align="center"><img src="./ico/alpine-linux.svg" width="48" height="48" alt="Alpine" /><br>Alpine</td>
-    <td align="center"><img src="./ico/rockylinux.svg" width="48" height="48" alt="Rocky" /><br>Rocky</td>
-    <td align="center"><img src="./ico/ubuntu.svg" width="48" height="48" alt="Ubuntu" /><br>Ubuntu</td>
-    <td align="center"><img src="./ico/fedora.svg" width="48" height="48" alt="Fedora" /><br>Fedora</td>
+    <td align="center"><img src="./assets/icons/archlinux.svg" width="48" height="48" alt="Arch" /><br>Arch</td>
+    <td align="center"><img src="./assets/icons/debian.svg" width="48" height="48" alt="Debian" /><br>Debian</td>
+    <td align="center"><img src="./assets/icons/alpine-linux.svg" width="48" height="48" alt="Alpine" /><br>Alpine</td>
+    <td align="center"><img src="./assets/icons/rockylinux.svg" width="48" height="48" alt="Rocky" /><br>Rocky</td>
+    <td align="center"><img src="./assets/icons/ubuntu.svg" width="48" height="48" alt="Ubuntu" /><br>Ubuntu</td>
+    <td align="center"><img src="./assets/icons/fedora.svg" width="48" height="48" alt="Fedora" /><br>Fedora</td>
   </tr>
 </table>
 
@@ -110,11 +110,11 @@ cycneuramus@github:~$ █</samp></pre>
 
 <table>
   <tr>
-    <td align="center"><img src="./ico/go.svg" width="48" height="48" alt="Go" /><br>Go</td>
-    <td align="center"><img src="./ico/nim.svg" width="48" height="48" alt="Nim" /><br>Nim</td>
-    <td align="center"><img src="./ico/python.svg" width="48" height="48" alt="Python" /><br>Python</td>
-    <td align="center"><img src="./ico/bash.png" width="48" height="48" alt="Bash" /><br>Bash</td>
-    <td align="center"><img src="./ico/lua.svg" width="48" height="48" alt="Lua" /><br>Lua</td>
+    <td align="center"><img src="./assets/icons/go.svg" width="48" height="48" alt="Go" /><br>Go</td>
+    <td align="center"><img src="./assets/icons/nim.svg" width="48" height="48" alt="Nim" /><br>Nim</td>
+    <td align="center"><img src="./assets/icons/python.svg" width="48" height="48" alt="Python" /><br>Python</td>
+    <td align="center"><img src="./assets/icons/bash.png" width="48" height="48" alt="Bash" /><br>Bash</td>
+    <td align="center"><img src="./assets/icons/lua.svg" width="48" height="48" alt="Lua" /><br>Lua</td>
   </tr>
 </table>
 
@@ -122,11 +122,11 @@ cycneuramus@github:~$ █</samp></pre>
 
 <table>
   <tr>
-    <td align="center"><img src="./ico/nomad.svg" width="48" height="48" alt="Nomad" /><br>Nomad</td>
-    <td align="center"><img src="./ico/docker-swarm.svg" width="48" height="48" alt="Swarm" /><br>Swarm</td>
-    <td align="center"><img src="./ico/podman.svg" width="48" height="48" alt="Podman" /><br>Podman</td>
-    <td align="center"><img src="./ico/docker.svg" width="48" height="48" alt="Docker" /><br>Docker</td>
-    <td align="center"><img src="./ico/incus.svg" width="48" height="48" alt="Incus" /><br>Incus</td>
+    <td align="center"><img src="./assets/icons/nomad.svg" width="48" height="48" alt="Nomad" /><br>Nomad</td>
+    <td align="center"><img src="./assets/icons/docker-swarm.svg" width="48" height="48" alt="Swarm" /><br>Swarm</td>
+    <td align="center"><img src="./assets/icons/podman.svg" width="48" height="48" alt="Podman" /><br>Podman</td>
+    <td align="center"><img src="./assets/icons/docker.svg" width="48" height="48" alt="Docker" /><br>Docker</td>
+    <td align="center"><img src="./assets/icons/incus.svg" width="48" height="48" alt="Incus" /><br>Incus</td>
   </tr>
 </table>
 
@@ -134,12 +134,12 @@ cycneuramus@github:~$ █</samp></pre>
 
 <table>
   <tr>
-    <td align="center"><img src="./ico/caddy.svg" width="48" height="48" alt="Caddy" /><br>Caddy</td>
-    <td align="center"><img src="./ico/haproxy.svg" width="48" height="48" alt="HAProxy" /><br>HAProxy</td>
-    <td align="center"><img src="./ico/wireguard.svg" width="48" height="48" alt="WireGuard" /><br>WireGuard</td>
-    <td align="center"><img src="./ico/headscale.svg" width="48" height="48" alt="Headscale" /><br>Headscale</td>
-    <td align="center"><img src="./ico/fail2ban.png" width="48" height="48" alt="Fail2ban" /><br>Fail2ban</td>
-    <td align="center"><img src="./ico/crowdsec.svg" width="48" height="48" alt="CrowdSec" /><br>CrowdSec</td>
+    <td align="center"><img src="./assets/icons/caddy.svg" width="48" height="48" alt="Caddy" /><br>Caddy</td>
+    <td align="center"><img src="./assets/icons/haproxy.svg" width="48" height="48" alt="HAProxy" /><br>HAProxy</td>
+    <td align="center"><img src="./assets/icons/wireguard.svg" width="48" height="48" alt="WireGuard" /><br>WireGuard</td>
+    <td align="center"><img src="./assets/icons/headscale.svg" width="48" height="48" alt="Headscale" /><br>Headscale</td>
+    <td align="center"><img src="./assets/icons/fail2ban.png" width="48" height="48" alt="Fail2ban" /><br>Fail2ban</td>
+    <td align="center"><img src="./assets/icons/crowdsec.svg" width="48" height="48" alt="CrowdSec" /><br>CrowdSec</td>
   </tr>
 </table>
 
@@ -147,11 +147,11 @@ cycneuramus@github:~$ █</samp></pre>
 
 <table>
   <tr>
-    <td align="center"><img src="./ico/ansible.svg" width="48" height="48" alt="Ansible" /><br>Ansible</td>
-    <td align="center"><img src="./ico/terraform.svg" width="48" height="48" alt="Terraform" /><br>Terraform</td>
-    <td align="center"><img src="./ico/opentofu.svg" width="48" height="48" alt="OpenTofu" /><br>OpenTofu</td>
-    <td align="center"><img src="./ico/githubactions.svg" width="48" height="48" alt="Github Actions" /><br>Github Actions</td>
-    <td align="center"><img src="./ico/renovate.svg" width="48" height="48" alt="Renovate" /><br>Renovate</td>
+    <td align="center"><img src="./assets/icons/ansible.svg" width="48" height="48" alt="Ansible" /><br>Ansible</td>
+    <td align="center"><img src="./assets/icons/terraform.svg" width="48" height="48" alt="Terraform" /><br>Terraform</td>
+    <td align="center"><img src="./assets/icons/opentofu.svg" width="48" height="48" alt="OpenTofu" /><br>OpenTofu</td>
+    <td align="center"><img src="./assets/icons/githubactions.svg" width="48" height="48" alt="Github Actions" /><br>Github Actions</td>
+    <td align="center"><img src="./assets/icons/renovate.svg" width="48" height="48" alt="Renovate" /><br>Renovate</td>
   </tr>
 </table>
 
@@ -159,11 +159,11 @@ cycneuramus@github:~$ █</samp></pre>
 
 <table>
   <tr>
-    <td align="center"><img src="./ico/git.svg" width="48" height="48" alt="Git" /><br>Git</td>
-    <td align="center"><img src="./ico/github.png" width="48" height="48" alt="GitHub" /><br>GitHub</td>
-    <td align="center"><img src="./ico/gitlab.svg" width="48" height="48" alt="GitLab" /><br>GitLab</td>
-    <td align="center"><img src="./ico/forgejo.svg" width="48" height="48" alt="Forgejo" /><br>Forgejo</td>
-    <td align="center"><img src="./ico/gitea.svg" width="48" height="48" alt="Gitea" /><br>Gitea</td>
+    <td align="center"><img src="./assets/icons/git.svg" width="48" height="48" alt="Git" /><br>Git</td>
+    <td align="center"><img src="./assets/icons/github.png" width="48" height="48" alt="GitHub" /><br>GitHub</td>
+    <td align="center"><img src="./assets/icons/gitlab.svg" width="48" height="48" alt="GitLab" /><br>GitLab</td>
+    <td align="center"><img src="./assets/icons/forgejo.svg" width="48" height="48" alt="Forgejo" /><br>Forgejo</td>
+    <td align="center"><img src="./assets/icons/gitea.svg" width="48" height="48" alt="Gitea" /><br>Gitea</td>
   </tr>
 </table>
 
@@ -171,12 +171,12 @@ cycneuramus@github:~$ █</samp></pre>
 
 <table>
   <tr>
-    <td align="center"><img src="./ico/juicefs.png" width="48" height="48" alt="JuiceFS" /><br>JuiceFS</td>
-    <td align="center"><img src="./ico/garage-s3.svg" width="48" height="48" alt="Garage" /><br>Garage</td>
-    <td align="center"><img src="./ico/seaweedfs.svg" width="48" height="48" alt="SeaweedFS" /><br>SeaweedFS</td>
-    <td align="center"><img src="./ico/rclone.svg" width="48" height="48" alt="Rclone" /><br>Rclone</td>
-    <td align="center"><img src="./ico/borg-backup.svg" width="48" height="48" alt="Borg" /><br>Borg</td>
-    <td align="center"><img src="./ico/restic.svg" width="48" height="48" alt="Restic" /><br>Restic</td>
+    <td align="center"><img src="./assets/icons/juicefs.png" width="48" height="48" alt="JuiceFS" /><br>JuiceFS</td>
+    <td align="center"><img src="./assets/icons/garage-s3.svg" width="48" height="48" alt="Garage" /><br>Garage</td>
+    <td align="center"><img src="./assets/icons/seaweedfs.svg" width="48" height="48" alt="SeaweedFS" /><br>SeaweedFS</td>
+    <td align="center"><img src="./assets/icons/rclone.svg" width="48" height="48" alt="Rclone" /><br>Rclone</td>
+    <td align="center"><img src="./assets/icons/borg-backup.svg" width="48" height="48" alt="Borg" /><br>Borg</td>
+    <td align="center"><img src="./assets/icons/restic.svg" width="48" height="48" alt="Restic" /><br>Restic</td>
   </tr>
 </table>
 
@@ -184,7 +184,7 @@ cycneuramus@github:~$ █</samp></pre>
 
 <table>
   <tr>
-    <td align="center"><img src="./ico/vim.svg" width="48" height="48" alt="Vim" /><br>Vim</td>
-    <td align="center"><img src="./ico/neovim.svg" width="48" height="48" alt="Neovim" /><br>Neovim</td>
+    <td align="center"><img src="./assets/icons/vim.svg" width="48" height="48" alt="Vim" /><br>Vim</td>
+    <td align="center"><img src="./assets/icons/neovim.svg" width="48" height="48" alt="Neovim" /><br>Neovim</td>
   </tr>
 </table>
