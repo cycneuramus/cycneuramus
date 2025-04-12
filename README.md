@@ -20,56 +20,74 @@ cycneuramus@github:~$ █</samp></pre>
 ## Featured projects
 
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/nmgr-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/nmgr-light.svg">
-    <img width="278" alt="cycneuramus/nmgr" src="./assets/cards/nmgr-dark.svg">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/cloudflare-dns-failover-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/cloudflare-dns-failover-light.svg">
-    <img width="278" alt="cycneuramus/cloudflare-dns-failover" src="./assets/cards/cloudflare-dns-failover-dark.svg">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/bastille-signalproxy-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/bastille-signalproxy-light.svg">
-    <img width="278" alt="cycneuramus/bastille-signalproxy" src="./assets/cards/bastille-signalproxy-dark.svg">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/signal-aichat-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/signal-aichat-light.svg">
-    <img width="278" alt="cycneuramus/signal-aichat" src="./assets/cards/signal-aichat-dark.svg">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/homelab-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/homelab-light.svg">
-    <img width="278" alt="cycneuramus/homelab" src="./assets/cards/homelab-dark.svg">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/ansible-hybrid-cloud-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/ansible-hybrid-cloud-light.svg">
-    <img width="278" alt="cycneuramus/ansible-hybrid-cloud" src="./assets/cards/ansible-hybrid-cloud-dark.svg">
-  </picture>
+  <a href="https://github.com/cycneuramus/nmgr">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/nmgr-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/nmgr-light.svg">
+      <img width="278" alt="cycneuramus/nmgr" src="./assets/cards/nmgr-dark.svg">
+    </picture>
+  </a>
+  <a href="https://github.com/cycneuramus/cloudflare-dns-failover">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/cloudflare-dns-failover-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/cloudflare-dns-failover-light.svg">
+      <img width="278" alt="cycneuramus/cloudflare-dns-failover" src="./assets/cards/cloudflare-dns-failover-dark.svg">
+    </picture>
+  </a>
+  <a href="https://github.com/cycneuramus/bastille-signalproxy">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/bastille-signalproxy-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/bastille-signalproxy-light.svg">
+      <img width="278" alt="cycneuramus/bastille-signalproxy" src="./assets/cards/bastille-signalproxy-dark.svg">
+    </picture>
+  </a>
+  <a href="https://github.com/cycneuramus/signal-aichat">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/signal-aichat-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/signal-aichat-light.svg">
+      <img width="278" alt="cycneuramus/signal-aichat" src="./assets/cards/signal-aichat-dark.svg">
+    </picture>
+  </a>
+  <a href="https://github.com/cycneuramus/homelab">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/homelab-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/homelab-light.svg">
+      <img width="278" alt="cycneuramus/homelab" src="./assets/cards/homelab-dark.svg">
+    </picture>
+  </a>
+  <a href="https://github.com/cycneuramus/ansible-hybrid-cloud">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/ansible-hybrid-cloud-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/ansible-hybrid-cloud-light.svg">
+      <img width="278" alt="cycneuramus/ansible-hybrid-cloud" src="./assets/cards/ansible-hybrid-cloud-dark.svg">
+    </picture>
+  </a>
 </p>
 
 ## Projects contributed to
 
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/immich-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/immich-light.svg">
-    <img width="278" alt="immich-app/immich" src="./assets/cards/immich-dark.svg">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/rclone-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/rclone-light.svg">
-    <img width="278" alt="rclone/rclone" src="./assets/cards/rclone-dark.svg">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/packages-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/packages-light.svg">
-    <img width="278" alt="nim-lang/packages" src="./assets/cards/packages-dark.svg">
-  </picture>
+  <a href="https://github.com/immich-app/immich">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/immich-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/immich-light.svg">
+      <img width="278" alt="immich-app/immich" src="./assets/cards/immich-dark.svg">
+    </picture>
+  </a>
+  <a href="https://github.com/rclone/rclone">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/rclone-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/rclone-light.svg">
+      <img width="278" alt="rclone/rclone" src="./assets/cards/rclone-dark.svg">
+    </picture>
+  </a>
+  <a href="https://github.com/nim-lang/packages">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/packages-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/packages-light.svg">
+      <img width="278" alt="nim-lang/packages" src="./assets/cards/packages-dark.svg">
+    </picture>
+  </a>
 </p>
 
 <br>
