@@ -49,7 +49,17 @@ jobs:
             path="assets/cards/${name}.svg"
             tmp="${path}.tmp"
 
-            curl -sL "${urls[$name]}" -o "$tmp"
+            curl --fail --silent --show-error --location "${urls[$name]}" -o "$tmp" || {
+                echo "Failed to fetch ${name} from ${urls[$name]}"
+                rm -f "$tmp"
+                continue
+            }
+
+            if ! grep -q "<svg" "$tmp"; then
+              echo "Invalid SVG content for ${name}, skipping."
+              rm -f "$tmp"
+              continue
+            fi
 
             if [ ! -f "$path" ] || ! cmp -s "$path" "$tmp"; then
               mv "$tmp" "$path"
