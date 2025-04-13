@@ -88,6 +88,13 @@ cycneuramus@github:~$ █</samp></pre>
       <img width="278" alt="nim-lang/packages" src="./assets/cards/packages-dark.svg">
     </picture>
   </a>
+  <a href="https://github.com/seaweedfs/seaweedfs">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/seaweedfs-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/seaweedfs-light.svg">
+      <img width="278" alt="seaweedfs/seaweedfs" src="./assets/cards/seaweedfs-dark.svg">
+    </picture>
+  </a>
 </p>
 
 <br>
