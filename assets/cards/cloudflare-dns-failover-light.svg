@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">A simple Go program implementing automatic</tspan><tspan dy="1.2em" x="25">DNS failover via Cloudflare's API.</tspan>
+      <tspan dy="1.2em" x="25">Automate DNS failover via Cloudflare's API</tspan>
     </text>
 
     <g transform="translate(30, 75)">
