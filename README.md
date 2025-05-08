@@ -34,11 +34,11 @@ cycneuramus@github:~$ █</samp></pre>
       <img width="278" alt="cycneuramus/cloudflare-dns-failover" src="./assets/cards/cloudflare-dns-failover-dark.svg">
     </picture>
   </a>
-  <a href="https://github.com/cycneuramus/bastille-signalproxy">
+  <a href="https://github.com/cycneuramus/deceptimeed">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/bastille-signalproxy-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/bastille-signalproxy-light.svg">
-      <img width="278" alt="cycneuramus/bastille-signalproxy" src="./assets/cards/bastille-signalproxy-dark.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/deceptimeed-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/deceptimeed-light.svg">
+      <img width="278" alt="cycneuramus/deceptimeed" src="./assets/cards/deceptimeed-dark.svg">
     </picture>
   </a>
   <a href="https://github.com/cycneuramus/signal-aichat">
