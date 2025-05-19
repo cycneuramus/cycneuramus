@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">A homelab of self-hosted services</tspan><tspan dy="1.2em" x="25">orchestrated by Nomad</tspan>
+      <tspan dy="1.2em" x="25">Homelab of self-hosted services</tspan><tspan dy="1.2em" x="25">orchestrated by Nomad</tspan>
     </text>
 
     <g transform="translate(30, 75)">
