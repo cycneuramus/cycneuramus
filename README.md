@@ -145,6 +145,8 @@ cycneuramus@github:~$ █</samp></pre>
     <td align="center"><img src="./assets/icons/caddy.svg" width="48" height="48" alt="Caddy" /><br>Caddy</td>
     <td align="center"><img src="./assets/icons/haproxy.svg" width="48" height="48" alt="HAProxy" /><br>HAProxy</td>
     <td align="center"><img src="./assets/icons/opnsense.png" width="48" height="48" alt="OPNsense" /><br>OPNsense</td>
+    <td align="center"><img src="./assets/icons/unbound.svg" width="48" height="48" alt="Unbound" /><br>Unbound</td>
+    <td align="center"><img src="./assets/icons/keepalived.png" width="48" height="48" alt="Keepalived" /><br>Keepalived</td>
   </tr>
 </table>
 
