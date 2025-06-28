@@ -64,7 +64,7 @@ cycneuramus@github:~$ █</samp></pre>
   </a>
 </p>
 
-## Projects contributed to
+## Contributed to
 
 <p align="left">
   <a href="https://github.com/immich-app/immich">
@@ -138,12 +138,20 @@ cycneuramus@github:~$ █</samp></pre>
   </tr>
 </table>
 
-### Network Infrastructure & Security
+### Network Infrastructure
 
 <table>
   <tr>
     <td align="center"><img src="./assets/icons/caddy.svg" width="48" height="48" alt="Caddy" /><br>Caddy</td>
     <td align="center"><img src="./assets/icons/haproxy.svg" width="48" height="48" alt="HAProxy" /><br>HAProxy</td>
+    <td align="center"><img src="./assets/icons/opnsense.png" width="48" height="48" alt="OPNsense" /><br>OPNsense</td>
+  </tr>
+</table>
+
+### Network Security
+
+<table>
+  <tr>
     <td align="center"><img src="./assets/icons/wireguard.svg" width="48" height="48" alt="WireGuard" /><br>WireGuard</td>
     <td align="center"><img src="./assets/icons/headscale.svg" width="48" height="48" alt="Headscale" /><br>Headscale</td>
     <td align="center"><img src="./assets/icons/fail2ban.png" width="48" height="48" alt="Fail2ban" /><br>Fail2ban</td>
