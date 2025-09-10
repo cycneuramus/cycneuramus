@@ -24,60 +24,62 @@ jobs:
           stats_url="https://denvercoder1-github-readme-stats.vercel.app"
 
           declare -A urls=(
-            ["trophies-dark"]="${trophies_url}/?username=cycneuramus&rank=-B,-C,-?&column=-1&no-bg=true&theme=gitdimmed"
-            ["trophies-light"]="${trophies_url}/?username=cycneuramus&rank=-B,-C,-?&column=-1&no-bg=true"
-            ["nmgr-dark"]="${stats_url}/api/pin/?username=cycneuramus&repo=nmgr&theme=github_dark"
-            ["nmgr-light"]="${stats_url}/api/pin/?username=cycneuramus&repo=nmgr"
-            ["cloudflare-dns-failover-dark"]="${stats_url}/api/pin/?username=cycneuramus&repo=cloudflare-dns-failover&theme=github_dark"
-            ["cloudflare-dns-failover-light"]="${stats_url}/api/pin/?username=cycneuramus&repo=cloudflare-dns-failover"
-            ["deceptimeed-dark"]="${stats_url}/api/pin/?username=cycneuramus&repo=deceptimeed&theme=github_dark"
-            ["deceptimeed-light"]="${stats_url}/api/pin/?username=cycneuramus&repo=deceptimeed"
-            ["signal-aichat-dark"]="${stats_url}/api/pin/?username=cycneuramus&repo=signal-aichat&theme=github_dark"
-            ["signal-aichat-light"]="${stats_url}/api/pin/?username=cycneuramus&repo=signal-aichat"
-            ["homelab-dark"]="${stats_url}/api/pin/?username=cycneuramus&repo=homelab&theme=github_dark"
-            ["homelab-light"]="${stats_url}/api/pin/?username=cycneuramus&repo=homelab"
-            ["ansible-hybrid-cloud-dark"]="${stats_url}/api/pin/?username=cycneuramus&repo=ansible-hybrid-cloud&theme=github_dark"
-            ["ansible-hybrid-cloud-light"]="${stats_url}/api/pin/?username=cycneuramus&repo=ansible-hybrid-cloud"
-            ["immich-dark"]="${stats_url}/api/pin/?username=immich-app&repo=immich&theme=github_dark&show_description=false"
-            ["immich-light"]="${stats_url}/api/pin/?username=immich-app&repo=immich&show_description=false"
-            ["rclone-dark"]="${stats_url}/api/pin/?username=rclone&repo=rclone&theme=github_dark&show_description=false"
-            ["rclone-light"]="${stats_url}/api/pin/?username=rclone&repo=rclone&show_description=false"
-            ["packages-dark"]="${stats_url}/api/pin/?username=nim-lang&repo=packages&theme=github_dark&show_description=false"
-            ["packages-light"]="${stats_url}/api/pin/?username=nim-lang&repo=packages&show_description=false"
-            ["seaweedfs-dark"]="${stats_url}/api/pin/?username=seaweedfs&repo=seaweedfs&theme=github_dark&show_description=false"
-            ["seaweedfs-light"]="${stats_url}/api/pin/?username=seaweedfs&repo=seaweedfs&show_description=false"
+              ["trophies-dark"]="${trophies_url}/?username=cycneuramus&rank=-B,-C,-?&column=-1&no-bg=true&theme=gitdimmed"
+              ["trophies-light"]="${trophies_url}/?username=cycneuramus&rank=-B,-C,-?&column=-1&no-bg=true"
+              ["nmgr-dark"]="${stats_url}/api/pin/?username=cycneuramus&repo=nmgr&theme=github_dark"
+              ["nmgr-light"]="${stats_url}/api/pin/?username=cycneuramus&repo=nmgr"
+              ["cloudflare-dns-failover-dark"]="${stats_url}/api/pin/?username=cycneuramus&repo=cloudflare-dns-failover&theme=github_dark"
+              ["cloudflare-dns-failover-light"]="${stats_url}/api/pin/?username=cycneuramus&repo=cloudflare-dns-failover"
+              ["deceptimeed-dark"]="${stats_url}/api/pin/?username=cycneuramus&repo=deceptimeed&theme=github_dark"
+              ["deceptimeed-light"]="${stats_url}/api/pin/?username=cycneuramus&repo=deceptimeed"
+              ["signal-aichat-dark"]="${stats_url}/api/pin/?username=cycneuramus&repo=signal-aichat&theme=github_dark"
+              ["signal-aichat-light"]="${stats_url}/api/pin/?username=cycneuramus&repo=signal-aichat"
+              ["homelab-dark"]="${stats_url}/api/pin/?username=cycneuramus&repo=homelab&theme=github_dark"
+              ["homelab-light"]="${stats_url}/api/pin/?username=cycneuramus&repo=homelab"
+              ["ansible-hybrid-cloud-dark"]="${stats_url}/api/pin/?username=cycneuramus&repo=ansible-hybrid-cloud&theme=github_dark"
+              ["ansible-hybrid-cloud-light"]="${stats_url}/api/pin/?username=cycneuramus&repo=ansible-hybrid-cloud"
+              ["immich-dark"]="${stats_url}/api/pin/?username=immich-app&repo=immich&theme=github_dark&show_description=false"
+              ["immich-light"]="${stats_url}/api/pin/?username=immich-app&repo=immich&show_description=false"
+              ["rclone-dark"]="${stats_url}/api/pin/?username=rclone&repo=rclone&theme=github_dark&show_description=false"
+              ["rclone-light"]="${stats_url}/api/pin/?username=rclone&repo=rclone&show_description=false"
+              ["seaweedfs-dark"]="${stats_url}/api/pin/?username=seaweedfs&repo=seaweedfs&theme=github_dark&show_description=false"
+              ["seaweedfs-light"]="${stats_url}/api/pin/?username=seaweedfs&repo=seaweedfs&show_description=false"
+              ["packages-dark"]="${stats_url}/api/pin/?username=nim-lang&repo=packages&theme=github_dark&show_description=false"
+              ["packages-light"]="${stats_url}/api/pin/?username=nim-lang&repo=packages&show_description=false"
+              ["redlib-dark"]="${stats_url}/api/pin/?username=redlib-org&repo=redlib&theme=github_dark&show_description=false"
+              ["redlib-light"]="${stats_url}/api/pin/?username=redlib-org&repo=redlib&show_description=false"
           )
 
           changed=false
 
           for name in "${!urls[@]}"; do
-            path="assets/cards/${name}.svg"
-            tmp="${path}.tmp"
+              path="assets/cards/${name}.svg"
+              tmp="${path}.tmp"
 
-            curl --fail --silent --show-error --location "${urls[$name]}" -o "$tmp" || {
-                echo "Failed to fetch ${name} from ${urls[$name]}"
-                rm -f "$tmp"
-                continue
-            }
+              curl --fail --silent --show-error --location "${urls[$name]}" -o "$tmp" || {
+                  echo "Failed to fetch ${name} from ${urls[$name]}"
+                  rm -f "$tmp"
+                  continue
+              }
 
-            if ! grep -q "<svg" "$tmp"; then
-              echo "Invalid SVG content for ${name}, skipping."
-              rm -f "$tmp"
-              continue
-            fi
+              if ! grep -q "<svg" "$tmp"; then
+                  echo "Invalid SVG content for ${name}, skipping."
+                  rm -f "$tmp"
+                  continue
+              fi
 
-            if [ ! -f "$path" ] || ! cmp -s "$path" "$tmp"; then
-              mv "$tmp" "$path"
-              git add "$path"
-              changed=true
-            else
-              rm "$tmp"
-            fi
+              if [ ! -f "$path" ] || ! cmp -s "$path" "$tmp"; then
+                  mv "$tmp" "$path"
+                  git add "$path"
+                  changed=true
+              else
+                  rm "$tmp"
+              fi
           done
 
           if [ "$changed" = false ]; then
-            echo "No asset changes detected."
-            exit 0
+              echo "No asset changes detected."
+              exit 0
           fi
 
           git config user.name "github-actions[bot]"

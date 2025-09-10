@@ -95,6 +95,13 @@ cycneuramus@github:~$ █</samp></pre>
       <img width="278" alt="seaweedfs/seaweedfs" src="./assets/cards/seaweedfs-dark.svg">
     </picture>
   </a>
+  <a href="https://github.com/redlib-org/redlib">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/redlib-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/redlib-light.svg">
+      <img width="278" alt="redlib-org/redlib" src="./assets/cards/redlib-dark.svg">
+    </picture>
+  </a>
 </p>
 
 <br>
