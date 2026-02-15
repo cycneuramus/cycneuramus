@@ -14,8 +14,8 @@ trophies_endpoints=(
 )
 
 declare -A trophies_paths=(
-	["trophies-dark"]="?username=cycneuramus&rank=-B,-C,-?&column=-1&no-bg=true&theme=gitdimmed"
-	["trophies-light"]="?username=cycneuramus&rank=-B,-C,-?&column=-1&no-bg=true"
+	["trophies-dark"]="?username=cycneuramus&no-bg=true&theme=gitdimmed&title=MultiLanguage,Stars,Commits,Experience,PullRequest,Repositories&rank=-B,-C,-?&column=-1"
+	["trophies-light"]="?username=cycneuramus&no-bg=true&title=MultiLanguage,Stars,Commits,Experience,PullRequest,Repositories&rank=-B,-C,-?&column=-1"
 )
 
 declare -A stats_paths=(
@@ -71,7 +71,11 @@ update_asset() {
 
 for name in "${!trophies_paths[@]}"; do
 	for endpoint in $(printf '%s\n' "${trophies_endpoints[@]}" | shuf); do
-		update_asset "$name" "${endpoint}/${trophies_paths[$name]}" && continue 2
+		if update_asset "$name" "${endpoint}/${trophies_paths[$name]}"; then
+			echo "Fetched ${name} from ${endpoint}."
+			continue 2
+		fi
+
 		echo "Failed to fetch ${name} from ${endpoint}, trying another endpoint."
 	done
 
